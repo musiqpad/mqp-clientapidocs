@@ -5,6 +5,28 @@ To Do :- Add Description
 
 *Current version: 0.5 Beta*
 
+## Table Of Contents
+
+### Musiqpad Client API Functions
+- [API.room](#apiroom)
+- [API.queue](#apiqueue)
+- [API.chat](#apichat)
+- [API.playlist](#apiplaylist)
+- [API.player](#apiplayer)
+- [Other Functions & Events](#other-api-functions)
+
+### Musiqpad Client API Objects
+- [Media](#media)
+- [User](#user)
+- [Role](#role)
+
+### Musiqpad Client Data Api
+- [PLAYER](#player)
+- [USER](#user-1)
+- [CHAT](#chat)
+- [EVENTS](#events)
+
+
 This is a list of all the public functions available in the API.
 
 ## API.room
